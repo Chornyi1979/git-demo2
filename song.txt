@@ -3,6 +3,7 @@ wall of shields
 standing strong
 on this there chosen
 
+<<<<<<< HEAD
 qwerttt
 sddfghhjj
 dfghhjjkk
@@ -13,3 +14,6 @@ ffgghjjkk
 fgghhjk
 ghjjkkl
 
+=======
+another text then main
+>>>>>>> feature
