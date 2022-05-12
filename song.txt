@@ -2,4 +2,7 @@ sword and spear
 wall of shields
 standing strong
 on this there chosen
+<<<<<<< HEAD
 new line
+=======
+>>>>>>> 0c14d4cee2974d848afbaa60fb719a82302a925c
